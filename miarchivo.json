@@ -10,9 +10,9 @@
         "edad" : 22,
         "identidad" : " uzumaki",
         "poderes" : [
-          "Kame Hame Ha",
-          "Genkidama",
-          "Kaio-Ken"
+          "Clones de sombra",
+          "Rasengan",
+          "invocacion"
         ]
         
       },
@@ -21,9 +21,9 @@
         "edad" : 22,
         "identidad" : "hUchiha",
         "poderes" : [
-          "Ataque Big Bang",
-          "Autoexplosión",
-          "Anillos de Poder"
+          "Amaterasu",
+          "Sharingan",
+          "Kyūjutsu"
         ]
       },
       {
@@ -31,9 +31,9 @@
         "edad" : 2,
         "identidad" : "hyuga",
         "poderes" : [
-          "Kamehameha",
-          "Makankosappo",
-          "Doble Masenko"
+          "Byakugan",
+          "Puño suave",
+          " Ocho Trigramas"
          
         ]
       }
