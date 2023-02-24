@@ -5,7 +5,7 @@
     
     <title>super heroes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../Diego/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
   </head>
 
@@ -18,13 +18,13 @@
 
       <section>
         
-        <img src="../Diego/naruto.jpg"
+        <img src="naruto.jpg"
         id="naruto"
         width="200px"
         height="200px"
         >
 
-        <img src="../Diego/sasuke.jpg"
+        <img src="sasuke.jpg"
         id="sasuke"
         width="200px"
         height="200px"
@@ -32,7 +32,7 @@
 
 
         
-        <img src="../Diego/neji.jpg"
+        <img src="neji.jpg"
         id="neji"
         width="200px"
         height="200px"
@@ -44,7 +44,7 @@
 
     async function populate() {
 
-      const requestURL = '../Diego/miarchivo.json';
+      const requestURL = 'miarchivo.json';
       const request = new Request(requestURL);
 
       const response = await fetch(request);
