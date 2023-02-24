@@ -1,0 +1,41 @@
+{
+    "escuadron" : "País del fuego",
+    "ciudad" : "Konoha",
+    "creado" :2023,
+    "base" : "Super tower",
+    "active" : true,
+    "miembros" : [
+      {
+        "nombre" : "Naruto",
+        "edad" : 22,
+        "identidad" : " uzumaki",
+        "poderes" : [
+          "Kame Hame Ha",
+          "Genkidama",
+          "Kaio-Ken"
+        ]
+        
+      },
+      {
+        "nombre" : "Sasuke",
+        "edad" : 22,
+        "identidad" : "hUchiha",
+        "poderes" : [
+          "Ataque Big Bang",
+          "Autoexplosión",
+          "Anillos de Poder"
+        ]
+      },
+      {
+        "nombre" : "Neji",
+        "edad" : 2,
+        "identidad" : "hyuga",
+        "poderes" : [
+          "Kamehameha",
+          "Makankosappo",
+          "Doble Masenko"
+         
+        ]
+      }
+    ]
+  }
